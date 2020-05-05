@@ -22,3 +22,5 @@ It is in the same framework. It has pages, step-definitions and feature file.
 I created API model classes to do proper mapping. 
 And also used Jackson library for serialization and deserialization. 
 I performed get,post, update, delete methods. Asserted with Junit. 
+
+As an IDE I used IntelliJ, and all my scenarios were passing last time I ran :)
