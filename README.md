@@ -15,7 +15,7 @@ Triggering point of my framework is Cukes runner class.
 I execute tests using @tags inside the runner Class.
 Also used Hooks class for tearing down scenarios and if scenario fails it takes screenshots.
 
-##API Automation www.jsonplaceholder.typicode.com
+API Automation www.jsonplaceholder.typicode.com
 
 For API Automation I also used Cucumber JUnit and with RestAssured library I automated it. 
 It is in the same framework. It has pages, step-definitions and feature file. 
